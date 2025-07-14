@@ -6,7 +6,7 @@ I'm an independent **Mobile App Developer** focusing mainly on **Android** apps.
 
 ## 📱 What I'm Building: Mobile Apps
 
-My focus in personal projects is on creating engaging and practical mobile experiences. I'm actively exploring and developing applications for both Android and iOS platforms.
+My focus in personal projects is on creating engaging and practical mobile experiences. I'm actively exploring and developing applications for Android.
 
 * **Current Interests:**
     * Building user-friendly interfaces.
@@ -28,7 +28,7 @@ You can find my research-related open-source code and scientific contributions o
 
 I enjoy working with a diverse set of technologies, spanning both my scientific and app development pursuits:
 
-* **Mobile Development:** `Kotlin` `Swift` `Android SDK` `iOS SDK` `React Native`
+* **Mobile Development:** `Kotlin` `Android SDK`
 * **Core Languages:** `Python` `Kotlin` `XML`
 * **Machine Learning:** `PyTorch` `JAX`
 
